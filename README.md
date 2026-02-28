@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Vinicius 👋
 
-<!--
-**mvneves-dev/mvneves-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student  
+💻 Currently learning programming fundamentals  
+📚 Focused on algorithms and problem solving  
+🚀 Seeking internship opportunities  
 
-Here are some ideas to get you started:
+## About Me
+I am building a strong foundation in programming, data structures and software development.  
+My goal is to grow consistently and gain real-world experience in technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Programming Logic
+- Algorithms
+- Git & GitHub
+- Software Development Fundamentals
