@@ -2,7 +2,7 @@
 
 🎓 Software Engineering Student  
 💻 Currently learning programming fundamentals  
-📚 Focused on algorithms and problem solving  
+📚 Focused on problem solving  
 🚀 Seeking internship opportunities  
 
 ## About Me
