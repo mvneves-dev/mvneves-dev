@@ -13,6 +13,7 @@ My goal is to grow consistently and gain real-world experience in technology.
 - Programming Logic
 - Algorithms
 - Git & GitHub
+- POO
 - Python
 - HTML / CSS / JS
-- Software Development Fundamentals
+- Software Development 
