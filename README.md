@@ -1,7 +1,7 @@
 # Hi, I'm  Marcus Vinicius 👋
 
 🎓 Software Engineering Student  
-💻 Currently learning programming fundamentals  
+💻 Currently learning fundamentals  
 📚 Focused on problem solving  
 🚀 Seeking internship opportunities  
 
