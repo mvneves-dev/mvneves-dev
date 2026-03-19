@@ -1,4 +1,4 @@
-# Hi, I'm Vinicius 👋
+# Hi, I'm  Marcus Vinicius 👋
 
 🎓 Software Engineering Student  
 💻 Currently learning programming fundamentals  
@@ -13,4 +13,6 @@ My goal is to grow consistently and gain real-world experience in technology.
 - Programming Logic
 - Algorithms
 - Git & GitHub
+- Python
+- HTML / CSS / JS
 - Software Development Fundamentals
